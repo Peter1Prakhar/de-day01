@@ -1,5 +1,5 @@
 console.log("first test line")
-console.log("second line")
+console.log("second test line")
 console.log("third test line")
-console.log("forth line")
+console.log("forth test line")
 console.log("fifth test line")
